@@ -1,6 +1,4 @@
 = mathlog
 
-Describe your project here
-
-:include:mathlog.rdoc
+Interact with the Mathematics.io API via command line. Good for importing local CSV files or gluing other services together with Mathematics.io.
 

@@ -1,0 +1,5 @@
+= mathlog
+
+Generate this with
+    mathlog rdoc
+After you have described your command line interface

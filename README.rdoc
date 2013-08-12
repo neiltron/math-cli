@@ -1,0 +1,6 @@
+= mathlog
+
+Describe your project here
+
+:include:mathlog.rdoc
+

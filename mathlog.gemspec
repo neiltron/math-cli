@@ -5,7 +5,7 @@ spec = Gem::Specification.new do |s|
   s.version = Mathlog::VERSION
   s.author = 'Neil Pullman'
   s.email = 'neil@descend.org'
-  s.homepage = 'http://github.com/neiltron'
+  s.homepage = 'https://github.com/neiltron/math-cli'
   s.platform = Gem::Platform::RUBY
   s.summary = 'CLI client for mathematics.io'
 # Add your other files here if you make them

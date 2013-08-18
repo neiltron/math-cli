@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    mathlog (0.0.1)
+    mathlog (0.0.2)
       gli (= 2.7.0)
       httparty
 
@@ -30,6 +30,7 @@ GEM
       multi_json (~> 1.0)
       multi_xml (>= 0.5.2)
     json (1.8.0)
+    math-api (0.0.3)
     multi_json (1.7.9)
     multi_test (0.0.2)
     multi_xml (0.5.5)
@@ -44,6 +45,7 @@ PLATFORMS
 
 DEPENDENCIES
   aruba
+  math-api
   mathlog!
   rake
   rdoc
